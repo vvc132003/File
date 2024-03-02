@@ -1,0 +1,5 @@
+#rect1 5 6
+#triangle1 6 8 9
+#circle1 5
+#rect2 6 8
+#circle3 9
